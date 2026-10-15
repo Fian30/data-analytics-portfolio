@@ -35,7 +35,7 @@ The database includes the following tables:
 This project demonstrates fundamental relational database design, the use of primary and foreign keys, and common SQL operations for managing structured data.
 
 ## Project Files
-The SQL script and screenshots of the database implementation will be added to this folder.
+This folder contains the SQL script and screenshots documenting the database implementation, including table creation, data manipulation, and query results.
 
 ## Database Implementation
 ![SQL Database Results](database-results.png)
