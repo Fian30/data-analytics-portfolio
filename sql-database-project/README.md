@@ -37,5 +37,8 @@ This project demonstrates fundamental relational database design, the use of pri
 ## Project Files
 The SQL script and screenshots of the database implementation will be added to this folder.
 
+## Database Implementation
+![SQL Database Results](database-results.png)
+
 ## Conclusion
 This project strengthened my understanding of database design and SQL-based data management, providing a foundation for data analysis and reporting.
