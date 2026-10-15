@@ -50,5 +50,8 @@ The project uses the Seaborn `tips` dataset, containing 244 observations and 7 c
 ## Notebook
 [Open the Python analysis in Google Colab](https://colab.research.google.com/drive/1xMOBKqPyzRN8FIrFXaIFuA2uKI0aBE0Y)
 
+## Analysis Visualizations
+![Python Analysis Results](python-analysis-results.png)
+
 ## Conclusion
 This project demonstrates the use of Python for data exploration, statistical summaries, visualization, and business insight generation.
