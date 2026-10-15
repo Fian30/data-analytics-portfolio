@@ -34,6 +34,9 @@ This project analyzes Brazilian e-commerce sales performance using the Olist pub
 ## Interactive Dashboard
 [View the Tableau Public Dashboard](https://public.tableau.com/views/DashboardOlistE-Commerce_17910389766810/DashboardOlistE-Commerce)
 
+### Dashboard Preview
+![Olist E-Commerce Dashboard](Tableau.png)
+
 ## Dataset
 Brazilian E-Commerce Public Dataset by Olist.
 
