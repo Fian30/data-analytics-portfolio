@@ -42,4 +42,4 @@ Explored restaurant transaction data to understand customer bills, tipping behav
 ## Contact
 
 - Email: alfianmukhlisul@gmail.com
-- LinkedIn: [Add your LinkedIn profile URL here.](http://www.linkedin.com/in/mukhlisul-alfian)
+- LinkedIn: [(http://www.linkedin.com/in/mukhlisul-alfian)]
